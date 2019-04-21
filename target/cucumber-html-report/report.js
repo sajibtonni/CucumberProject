@@ -23,7 +23,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4690088828,
+  "duration": 4795508393,
   "status": "passed"
 });
 formatter.scenario({
@@ -59,21 +59,21 @@ formatter.match({
   "location": "CucumberProjectTest.i_want_to_login()"
 });
 formatter.result({
-  "duration": 1445471763,
+  "duration": 1353047617,
   "status": "passed"
 });
 formatter.match({
   "location": "CucumberProjectTest.i_complete_action()"
 });
 formatter.result({
-  "duration": 8999684,
+  "duration": 1005654,
   "status": "passed"
 });
 formatter.match({
   "location": "CucumberProjectTest.i_validate_the_actions()"
 });
 formatter.result({
-  "duration": 653654,
+  "duration": 101547,
   "status": "passed"
 });
 });
